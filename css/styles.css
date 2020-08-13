@@ -21,3 +21,21 @@ body{
   background-color: burlywood;
   
 }
+
+.intro{
+  font-style: italic;
+
+}
+
+.author{
+  color: red;
+
+}
+
+p.author{
+  font-size: 12px;
+}
+
+#par{
+  color: blue;
+}
